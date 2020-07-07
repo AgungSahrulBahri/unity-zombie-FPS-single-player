@@ -1,5 +1,5 @@
-github : AgungSahrulBahri
-Instagrm : @agungsahrul
+# github : AgungSahrulBahri <br>
+# Instagram : @agungsahrul
 
 # Unity Zombie FPS Co-op Singleplayer Edition
 Singleplayer version of [Unity Simple Zombie Defense Co-op Example](https://github.com/rico345100/unity-zombie-defense-fps-multiplayer-example).
