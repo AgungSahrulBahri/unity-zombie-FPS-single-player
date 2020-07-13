@@ -1,3 +1,8 @@
+# NAMA  : - AGUNG SAHRUL BAHRI (17090030) <br>
+#         - KUKUH AJI SANTOSO (17090059) <br>
+# KELAS : 6A
+
+
 # github : AgungSahrulBahri <br>
 # Instagram : @agungsahrul
 
